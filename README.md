@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @valentinvirzi58
+- 👋 Hi, I’m @vegv
 - 👀 I’m interested in Python, Data Science, Web Developing. 
 - 🌱 I’m currently learning them.
 - 💞️ I’m looking to collaborate on ...
